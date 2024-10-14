@@ -2,9 +2,10 @@
 <!-- ![Profile Banner](https://your-banner-image-link.com) -->
 ### 🌐 A Web Developer Crafting Digital Experiences
 
-I am a **Web Developer** with over **2 years of experience** building **responsive**, **user-centric web applications**. My core focus is on crafting engaging and performant websites using **modern JavaScript frameworks** and **best practices** for both frontend and backend development. I love solving problems, learning new technologies, and building projects that make an impact.
+I am a **Junior Web Developer** with over **2 years of experience** building **responsive**, **user-centric web applications**.  I love solving problems, learning new technologies, and building projects that make an impact.
 
 ---
+
 ### ✨ Best Project
 
 #### 1. [Mobacash.com](https://mobacash.com)
@@ -15,18 +16,16 @@ A cutting-edge financial platform for handling payments, transfers, and digital 
 #### 2. [Siapqurban.id](https://siapqurban.id)
 A web platform for managing Qurban donations, supported by **Bank BJB**. Built with **EJS** and **Node.js**.
 - **Role**: Frontend Developer
-- **Technologies**: HTML, Bootstrap, Node.js
+- **Technologies**: Bootstrap, Pug, JQuery, Ajax, Node.js
+
+#### 4. [Sistem Admin Pemerintahan RT/RW (SIAP)](https://github.com/Asyabani/SistemAdministrasiPemerintahan)
+A management system for handling and tracking customer orders, developed with **React.js** for frontend interactivity.
+- **Role**: Full Stack Developer
+- **Technologies**: EJS ,Bootstrap , Node.js, Express.js, SQLite
 
 ---
 
 ### 📈 GitHub Stats
-
-![Asyabani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asyabani&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asyabani&layout=compact&theme=radical)](https://github.com/Asyabani/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Asyabani&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&cache_seconds=7200" alt="Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asyabani&layout=compact&theme=transparent&hide_border=true&cache_seconds=7200" />
+<hr />
 ---
-
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-
